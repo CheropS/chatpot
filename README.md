@@ -22,4 +22,5 @@ $ source venv/bin/activate
 (venv) $ python -m pip install chatterbot==1.0.4 pytz
 
 ### Clone 
+Git clone https://github.com/CheropS/chatpot
 
